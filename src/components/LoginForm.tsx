@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { Truck, Phone, Lock } from 'lucide-react';
 import { useAuth } from '../contexts/AuthContext';
+import '../components/css/LoginForm.scss';
 
 interface LoginFormProps {
   onViewChange: (view: 'login' | 'signup' | 'otp' | 'dashboard' | 'order-details') => void;
