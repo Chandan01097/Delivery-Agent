@@ -81,3 +81,24 @@ pip install -r requirements.txt
 # Run the app
 python backend/app.py
 ```
+
+---
+
+## 📈 Impact
+
+✅ Reduced return fraud
+✅ Faster refund validation
+✅ Increased inventory accuracy
+✅ Lower manpower costs for inspection
+
+---
+
+## 🤖 Future Scope
+
+* Integrate **face detection** for employee validation
+* Add **multi-angle image input** for more robust detection
+* Include **text/QR tag recognition** for original product ID matching
+* API for integration with major e-commerce platforms (Shopify, WooCommerce)
+
+---
+
